@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145830328625",
+    "project_id": "hurdle-4a0bb",
+    "storage_bucket": "hurdle-4a0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145830328625:android:e052172609adc58e025810",
+        "android_client_info": {
+          "package_name": "com.example.hurdle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145830328625-civpefto0lsh79e1ttdh1avoqka2rp59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hurdle",
+            "certificate_hash": "db7a57fd878700cf710466374861c404578b161b"
+          }
+        },
+        {
+          "client_id": "145830328625-qcqe051qnp9ompbl06a4unentb55gsht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBT_hsxgEEBi9L_YURYqPLp-xk70i1Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145830328625-qcqe051qnp9ompbl06a4unentb55gsht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
